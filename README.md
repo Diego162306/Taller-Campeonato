@@ -1,9 +1,9 @@
 # Taller-Campeonato
 <p align="center">
-<img src="https://gifdb.com/images/high/shining-golden-trophy-zpkenm2zfoto8bib.gif" height="400px">
+<img src="https://gifdb.com/images/high/shining-golden-trophy-zpkenm2zfoto8bib.gif" height="350px">
 </p>
 <p align="center">
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/Taller que permitira registrar un campeonato de futbol -red?colorA=%255ff0000&colorB=FF0000&style=for-the-badge"></a> 
+<a href="#"><img src="https://img.shields.io/badge/Taller que permitira registrar un campeonato de futbol -red?colorA=%255ff0000&colorB=FF0000&style=for-the-badge"></a> 
 </p> 
 
 # Requerimientos
